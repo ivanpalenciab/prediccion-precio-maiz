@@ -1,8 +1,7 @@
 
-se hizo la prediccion del precio del maiz utilizando diferentes tecnicas de machine learning como redes neuronales recurrentes, redes neuronales densas y XGBOOST.
+se hizo la prediccion del precio del maiz utilizando diferentes tecnicas de machine learning y metodos estadisticos como ARIMA, suvisado exponencial y XGBOOST.
 
-en primer lugar se hizo una descompocision de la serie de tiempo utilizando el metodo emprical mode decompocition (EMD)
+Se realizo una descompocision de los datos utilizando 4 tecnicas de descompocion para eliminacion del ruido, el EMD, SSA, VMD y EWT, esto para la eliminacion del ruido.
+Posteriormente se realizo el modelado con los datos obtenidos de cada una des las descompocisiones. 
 
-posteriormente se utilizo cada uno de los modos para entrenar los modelos antes mencionados. la predicciones de cada uno de estos modos se sumo para generar un modelo individual. 
-
-posterior a esto se usara un metodo de optimizacion para mejorar el modelo al hacer un ensemble de los modelos que nos proporcionaron mejor rendimiento. 
+ 
