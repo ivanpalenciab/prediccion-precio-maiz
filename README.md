@@ -1,5 +1,5 @@
 
-** Descripción del Proyecto **
+**Descripción del Proyecto**
 
 En este proyecto se predijo el precio del maíz utilizando diversas técnicas de machine learning, incluyendo redes neuronales recurrentes, redes neuronales densas y XGBoost.
 
@@ -20,7 +20,7 @@ El proceso se llevó a cabo en las siguientes etapas:
 
 4. Optimización mediante ensamblaje (ensemble): Finalmente, se utilizó un método de optimización para mejorar el rendimiento del modelo mediante un ensemble de los modelos que obtuvieron los mejores resultados.
 
-** Project Description ** 
+**Project Description** 
 
 In this project, we predicted the price of corn using various machine learning techniques, including Recurrent Neural Networks (RNN), Dense Neural Networks (DNN), and XGBoost.
 
